@@ -1,1 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+body{
+    font-family:'Poppins',sans-serif;
+}
+
+
+
+
+nav button:hover{
+    background-color: darkgreen;
+    color: white;
+}
